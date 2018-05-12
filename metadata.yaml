@@ -1,0 +1,35 @@
+_repo: Aus-meinem-Leben_30695
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hindenburg, Paul von
+    aliases:
+    - Beneckendorff und von Hindenburg, Paul Ludwig Hans Anton von
+    - Von Hindenburg, Paul
+    birthdate: 1847
+    deathdate: 1934
+    gutenberg_agent_id: '34777'
+    url: http://www.gutenberg.org/2009/agents/34777
+    wikipedia: http://de.wikipedia.org/wiki/Paul_von_Hindenburg
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- DE Prosa
+gutenberg_issued: '2009-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30695'
+  lccn: a 20000834
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Germany'
+- !lcsh 'World War, 1914-1918 -- Campaigns'
+title: Aus meinem Leben
+url: http://www.gutenberg.org/ebooks/30695
